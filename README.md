@@ -1,1 +1,1 @@
-# lab-7
+# lab-7 Focuses on creating professional aviation emails using structured prompts. It covers flight-delay communication, passenger complaints, tone, accuracy, BLUF structure, word limits, and avoiding unsupported promises such as compensation, refunds, meals, or hotel arrangements.
